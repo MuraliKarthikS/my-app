@@ -1,0 +1,1 @@
+export const BACKEND_URL = "https://my-app.muralik10052003.workers.dev"

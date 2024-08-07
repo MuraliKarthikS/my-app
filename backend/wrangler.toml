@@ -2,8 +2,8 @@ name = "my-app"
 compatibility_date = "2024-08-04"
 
 [vars]
-DATABASE_URL="zzzzzz"
-JWT_SECRET="aaaaa"
+DATABASE_URL="qwerty"
+JWT_SECRET="asdasd"
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
